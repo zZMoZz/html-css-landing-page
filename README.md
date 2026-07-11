@@ -4,7 +4,7 @@ A responsive one-page landing site built while learning HTML and CSS. It's a per
 
 ## Live Demo
 
-_Add the deployed link here once GitHub Pages is enabled (see below)._
+[_Click Here](https://zzmozz.github.io/html-css-landing-page/)
 
 ## Built With
 
